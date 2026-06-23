@@ -20,7 +20,11 @@
 - **原始文本引用** — 卡片内显示被批注的原文引用（可配置开关）
 - **导出 PDF 批注** — 可将 PDF 批注导出为文件保存
 
-***
+<img width="2560" height="1392" alt="SnowShot_2026-06-17_21-45-22" src="https://github.com/user-attachments/assets/e0a32514-5a12-47ab-b231-e0ba0a8b9ea9" />
+
+``
+<img width="2560" height="1392" alt="SnowShot_2026-06-17_21-45-41" src="https://github.com/user-attachments/assets/84b9f6b4-e3ca-446a-88cc-88291bcd00d8" />
+
 
 ## 安装
 
@@ -127,4 +131,7 @@ npm run build
 | 总结提炼 | `#34d399` |
 
 ***
+## 授权码获取方式
+如果喜欢这个插件，还请支持一下作者。作者会提供长期的售后服务
+<img width="972" height="1444" alt="1af617a1787ef4329347c0fab2e9c727" src="https://github.com/user-attachments/assets/d9c6f77b-b4b9-47f8-b548-88c2e3304d8a" />
 

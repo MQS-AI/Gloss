@@ -133,5 +133,5 @@ npm run build
 ***
 ## 授权码获取方式
 如果喜欢这个插件，还请支持一下作者。作者会提供长期的售后服务
-<img width="600" height="800" alt="1af617a1787ef4329347c0fab2e9c727" src="https://github.com/user-attachments/assets/d9c6f77b-b4b9-47f8-b548-88c2e3304d8a" />
+<img width="300" height="400" alt="1af617a1787ef4329347c0fab2e9c727" src="https://github.com/user-attachments/assets/d9c6f77b-b4b9-47f8-b548-88c2e3304d8a" />
 
